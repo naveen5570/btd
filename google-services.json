@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1016690843275",
+    "firebase_url": "https://beatthediabetes-ddb70.firebaseio.com",
+    "project_id": "beatthediabetes-ddb70",
+    "storage_bucket": "beatthediabetes-ddb70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016690843275:android:c7b4ee0e3746724cec3e8e",
+        "android_client_info": {
+          "package_name": "com.markuplounge.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016690843275-vf5rcl21d647h22tcoice1r5rnkvutur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlKWu88TWnEnCPzNoLjDqmcBJ65mf33_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016690843275-vf5rcl21d647h22tcoice1r5rnkvutur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "BTD",
+    "description": "This is Doctor's Project.",
+    "slug": "BTD",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "2.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/ic_launcher.png",
+    "splash": {
+      "image": "./assets/BTDSPALSH_NEW.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "notification": {
+      "icon": "./assets/push_icon.png"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "enabled": false
+    },
+    "assetBundlePatterns": [
+      "assets/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "icon": "./assets/icon1.png",
+      "bundleIdentifier": "com.markuplounge.auth"
+    },
+    "android": {
+      "package": "com.markuplounge.auth",
+      "icon": "./assets/icon1.png",
+      "googleServicesFile": "./google-services.json",
+      "useNextNotificationsApi": true,
+      "versionCode": 5,
+      "permissions": [
+        "VIBRATE"
+      ]
+    }
+  }
+}
